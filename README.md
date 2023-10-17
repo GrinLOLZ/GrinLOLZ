@@ -3,14 +3,14 @@
 <p>I am a up and coming deveolper many people might not know me (except my friends at school) <br>
 My FAVORITE thing to to is code espically websites I have my own game website called Plasm. <br>
 I also make roblox scripts for free for anyone to use. You should Join my Discord Server Linked Below</p>
----
+<hr>
 #Current Projects
 <br>
 <img src="https://plasmv1.github.io/favicon%20(2).png" width="40px">
 <br>
-I am Currently Finishing and working on adding games to my website (Plasm) <br>
+<p></p>I am Currently Finishing and working on adding games to my website (Plasm) <br>
 Using Caddy I can create almost infinte domains to play games on.
-Im still adding games
+Im still adding games</p>
 ---
 #Socials
 <br>
