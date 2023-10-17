@@ -1,8 +1,8 @@
 ### <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="15px"> Hello My name is Grin
 ---
-I am a up and coming deveolper many people might not know me (except my friends at school) <br>
+<p1>I am a up and coming deveolper many people might not know me (except my friends at school) <br>
 My FAVORITE thing to to is code espically websites I have my own game website called Plasm. <br>
-I also make roblox scripts for free for anyone to use. You should Join my Discord Server Linked Below
+I also make roblox scripts for free for anyone to use. You should Join my Discord Server Linked Below</p>
 ---
 #Current Projects
 <br>
